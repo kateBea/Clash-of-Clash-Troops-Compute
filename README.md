@@ -1,6 +1,8 @@
 # Clash of Clash Troops Compute
 
-A computational tool for troop compositions in *Clash of Clans*.
+A computational tool for troop compositions in *Clash of Clans*. 
+For now, this simply outputs all the possible army combinations you can 
+make given a maximum housing space.
 
 ### Prerequisites
 - A C++ compiler supporting C++20 or later.
