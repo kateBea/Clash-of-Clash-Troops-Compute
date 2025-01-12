@@ -5,7 +5,7 @@ A computational tool for troop compositions in *Clash of Clans*.
 ### Prerequisites
 - A C++ compiler supporting C++20 or later.
 
-### Installation
+### Build
 1. Clone the repository:
 ```bash
 git clone https://github.com/kateBea/Clash-of-Clash-Troops-Compute.git
